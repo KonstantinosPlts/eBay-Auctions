@@ -1,5 +1,5 @@
 # eBay-Auctions
-Predicting eBay auction outcome and forecasting the optimal starting price 
+Predicting eBay Auction Outcome and Forecasting the Optimal Starting Price 
 
 Δοθέντος ενός συνόλου δεδομένων που περιέχει πληροφορίες σχετικά με δημοπρασίες που έλαβαν χώρα στο eBay (SellerID, SellerRating, ItemID, StartingBid, ΝumBidders, Price)
 στόχοι του project είναι οι ακόλουθοι:
